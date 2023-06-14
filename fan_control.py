@@ -30,7 +30,7 @@ import RPi.GPIO as GPIO
 CPU_TEMP_PATH = '/sys/devices/virtual/thermal/thermal_zone0/temp'
 PIN_NUMBER = 23  # GPIO23
 TEMP_OFF = 40000 # 40C
-TEMP_ON = 55000  #55C
+TEMP_ON = 52000  #52C
 
 rotating = False
 
