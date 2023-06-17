@@ -3,7 +3,7 @@
 echo Copying files 
 
 cp fan_control.py /usr/local/bin
-cp fan_control.service /etc/systemc/system
+cp fan_control.service /etc/systemd/system
 
 echo Starting fan_control.service
 
