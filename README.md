@@ -13,7 +13,7 @@ A simple Python script that can control the fan based on the CPU temperature of 
 <h1>Installation Guide:</h1>
 
 1. Clone the repository into your local machine.
-2. Install the fan controller by using the commands:
+2. Install the fan controller by following commands:
 
 Make the script executable:
 ````
